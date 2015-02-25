@@ -7,6 +7,7 @@ My Code:  logic.pl
 
 To Execute:  Compile logic.pl and then compile one of the test files.
 
+Project Description
 
 Part 1: Recursion
 Write the following recursive functions:
